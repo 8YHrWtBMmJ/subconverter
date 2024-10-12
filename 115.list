@@ -1,0 +1,4 @@
+# reject.list
+# 用于禁止访问网页
+
+DOMAIN-SUFFIX,115.com
