@@ -19,4 +19,18 @@ DOMAIN-SUFFIX,cn-music.mefun.vip
 DOMAIN-SUFFIX,kr.955557.xyz
 DOMAIN-SUFFIX,955557.xyz
 
+
+DOMAIN-KEYWORD,paddlepaddle
+DOMAIN-KEYWORD,PaddleOCR
+DOMAIN-KEYWORD,opendatalab
+DOMAIN-KEYWORD,deepseek
+DOMAIN-KEYWORD,mineru
+DOMAIN-KEYWORD,openxlab
+
 DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,opendatalab.com
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,mineru.org.cn
+DOMAIN-SUFFIX,openxlab.org.cn
+DOMAIN-SUFFIX,mineru.oss-cn-shanghai.aliyuncs
+DOMAIN-SUFFIX,mineru.org.cn
