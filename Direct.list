@@ -15,9 +15,12 @@ DOMAIN-SUFFIX,sgtv.ii00.cc
 IP-CIDR,210.51.27.46/32
 IP-CIDR,98.126.27.164/32
 
+## emby
+
 DOMAIN-SUFFIX,cn-music.mefun.vip
-DOMAIN-SUFFIX,kr.955557.xyz
-DOMAIN-SUFFIX,955557.xyz
+DOMAIN-SUFFIX,ztk.icu
+
+## minerU
 
 DOMAIN-KEYWORD,paddlepaddle
 DOMAIN-KEYWORD,PaddleOCR
@@ -34,3 +37,4 @@ DOMAIN-SUFFIX,mineru.org.cn
 DOMAIN-SUFFIX,openxlab.org.cn
 DOMAIN-SUFFIX,mineru.oss-cn-shanghai.aliyuncs
 DOMAIN-SUFFIX,mineru.org.cn
+
