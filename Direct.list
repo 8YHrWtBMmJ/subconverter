@@ -7,6 +7,11 @@ DOMAIN-SUFFIX,soul.me
 DOMAIN-KEYWORD,duitang
 DOMAIN-KEYWORD,ziroom
 
+## emby - 国服
+
+DOMAIN-SUFFIX,cn-music.mefun.vip
+DOMAIN-SUFFIX,ztk.icu
+
 DOMAIN-SUFFIX,sptv.ii00.cc
 IP-CIDR,210.51.27.46/32
 IP-CIDR,98.126.27.164/32
@@ -14,11 +19,6 @@ IP-CIDR,98.126.27.164/32
 DOMAIN-SUFFIX,sgtv.ii00.cc
 IP-CIDR,210.51.27.46/32
 IP-CIDR,98.126.27.164/32
-
-## emby
-
-DOMAIN-SUFFIX,cn-music.mefun.vip
-DOMAIN-SUFFIX,ztk.icu
 
 ## minerU
 
